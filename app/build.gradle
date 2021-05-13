@@ -36,6 +36,6 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 
     /* DropdownTextView */
-   // implementation project(':dropdown-textview')
-    implementation(name: 'dropdown-textview', ext: 'aar')
+    implementation project(':dropdown-textview')
+    //implementation(name: 'dropdown-textview', ext: 'aar')
 }

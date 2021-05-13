@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/DropdownTextView_DK.iml" filepath="$PROJECT_DIR$/.idea/DropdownTextView_DK.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DropdownTextView_DK.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DropdownTextView_DK.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dropdown-textview/DropdownTextView_DK.dropdown-textview.iml" filepath="$PROJECT_DIR$/.idea/modules/dropdown-textview/DropdownTextView_DK.dropdown-textview.iml" />
     </modules>
   </component>
 </project>
