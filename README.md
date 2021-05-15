@@ -83,6 +83,7 @@ allprojects {
 		}
 	}
 ```
+Add this to your app module dependencies:
 ```groovy
 implementation 'com.github.dk19121991:DropdownTextView:0.3.3'
 ```
